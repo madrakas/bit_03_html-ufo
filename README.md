@@ -3,36 +3,38 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# UFO 404
+# BIT Full stack developer course – Part 3. HTML and CSS basics, UFO 404 page
 
-_Error 404 website design project_
+_My journey to become a full stack developer_
 
 <br>
 
 ## 🌟 About
 
-This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
+This project is a part of my workbook from Full stack developers course at BIT This is the first part of the course – HTML and CSS basics, UFO 404 page.
 
-Site published at: https://madrakas.github.io/03_html-ufo/
+Projects porpuses are educational only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
+
+Site published at: [https://madrakas.github.io/bit_03_html-ufo](https://madrakas.github.io/bit_03_html-ufo/)
 
 Design: [UFO](https://dribbble.com/shots/2815937/attachments/2815937-404-page?mode=media)
 
+## 🧭 Other repositories from same course
+1. [General programming skils and JS](https://github.com/madrakas/bit_01_Intro_to_programming_and_JS/)
+2. [Intro to HTML and CS](https://github.com/madrakas/bit_02_Intro_to_html/)
+3. TML and CSS basics, UFO 404 page (Current repository)
+4. item four
+
 ## 🎯 Project features/goals
 
--   Github pages
--   basic [HTML (structure)](https://www.w3schools.com/TAGS/default.asp) and CSS (style)
--   [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--   desktop only
+-   Learn Github pages and projects
+-   Learn basic [HTML (structure)](https://www.w3schools.com/TAGS/default.asp) and CSS (style)
+-   [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-   Desktop only
 
 ## 🧰 Getting Started
 
 ### 💻 Prerequisites
-
-Node.js - _download and install_
-
-```
-https://nodejs.org
-```
 
 Git - _download and install_
 
@@ -48,18 +50,9 @@ Would like to run this project locally? Open terminal and follow these steps:
     ```sh
     git clone https://github.com/front-end-by-rimantas/46-grupe-ufo.git
     ```
-2. Install NPM packages
-    ```sh
-    npm i
-    ```
-    or
-    ```sh
-    npm install
-    ```
-3. Run the server
-    ```sh
-    npm run dev
-    ```
+2. Edit your cloned in you favorite text editor
+3. To view results, open index.html file in your web browser app.
+
 
 ### 🧪 Running tests
 
